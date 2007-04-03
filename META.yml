@@ -11,6 +11,8 @@ requires:
   Class::Accessor: 0
   HTTP::Request: 0
   LWP::UserAgent: 0
+  Test::Deep: 0
   XML::Atom::Entry: 0
   XML::Atom::Util: 0
-version: 0.001
+  YAML::Syck: 0
+version: 0.002

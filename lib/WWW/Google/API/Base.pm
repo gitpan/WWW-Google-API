@@ -33,7 +33,7 @@ version 0.001
 
 =cut
 
-
+our $VERSION = '0.001';
 
 use base qw(Class::Accessor);
 
