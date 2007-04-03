@@ -1,4 +1,7 @@
 WWW::Google::API
 
+0.02  2007-04-03
+      Dependency and Test fixes
+
 0.01  2007-03-23
       Initial Release
