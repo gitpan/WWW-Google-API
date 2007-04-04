@@ -9,7 +9,7 @@ WWW::Google::API - Perl client to the Google API C<< <http://code.google.com/api
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
   $Id$
 
@@ -21,7 +21,7 @@ You probably want one of the subclasses of this module L<WWW::Google::API::Base>
 
 =cut
 
-our $VERSION = '0.002';
+our $VERSION = '0.003';
 
 use base qw(Class::Accessor);
 

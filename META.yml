@@ -15,4 +15,4 @@ requires:
   XML::Atom::Entry: 0
   XML::Atom::Util: 0
   YAML::Syck: 0
-version: 0.002
+version: 0.003
